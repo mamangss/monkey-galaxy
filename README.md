@@ -7,6 +7,13 @@ Fight for your life Monkey!
 
 This is a school project instructed by our Prof. Abricam S. Tinga at Universidad de Manila.
 
+![](screenshots/mg-main-menu.png)
+![](screenshots/mg-lobby.png)
+![](screenshots/mg-fight-1.png)
+![](screenshots/mg-fight-2.png)
+![](screenshots/mg-how.png)
+![](screenshots/mg-credits.png)
+
 ## How to Play
 
 You only need to run [mamangunja-le5.swf](mamangunja-le5.swf) to play the game.
