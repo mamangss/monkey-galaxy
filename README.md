@@ -7,12 +7,12 @@ Fight for your life Monkey!
 
 This is a school project instructed by our Prof. Abricam S. Tinga at Universidad de Manila.
 
-![](screenshots/mg-main-menu.png)
-![](screenshots/mg-lobby.png)
-![](screenshots/mg-fight-1.png)
-![](screenshots/mg-fight-2.png)
-![](screenshots/mg-how.png)
-![](screenshots/mg-credits.png)
+![Screenshot#1: Main Menu](/screenshots/mg-main-menu.PNG)
+![Screenshot#2: Lobby](/screenshots/mg-lobby.PNG)
+![Screenshot#3: Battle #1](/screenshots/mg-fight-1.PNG)
+![Screenshot#4: Battle #2](/screenshots/mg-fight-2.PNG)
+![Screenshot#5: How](/screenshots/mg-how.PNG)
+![Screenshot#6: Credits](/screenshots/mg-credits.PNG)
 
 ## How to Play
 
