@@ -13,7 +13,7 @@ You only need to run [mamangunja-le5.swf](mamangunja-le5.swf) to play the game.
 
 ## Usage example
 
-You can use this to be your base code for your space shooter game. You can add as many level and enemy you want. You can also easily specify their skills using objects and parametrs. Add them to the different levels and make it more exciting!
+You can use this to be your base code for your space shooter game. You can add as many level and enemy as you want. You can also easily specify their skills using objects and parametrs. Add them to the different levels and make it more exciting!
 
 ## Development setup
 
