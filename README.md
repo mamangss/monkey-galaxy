@@ -1,4 +1,4 @@
-#Monkey Galaxy Game
+# Monkey Galaxy Game
 > A vertical space shooter game and school project made in Adobe Animate using ActionScript.
 
 An out-of-this-world vertical space shooter survival game with you as a Monkey, who will fight for his life in different galaxies. You can power up your stats with the experience you gain from the battles. You also have multiple skills to brawl unique space monkey enemies. But don't be easy because they have their unique battle styles that will bring you to death. 
