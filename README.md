@@ -1,26 +1,26 @@
 #Monkey Galaxy Game
-> A vertical space shooter school project game made in Adobe Animate using ActionScript.
+> A vertical space shooter game and school project made in Adobe Animate using ActionScript.
 
-An out of this world vertical space shooter survival game with you as a Monkey who will fight for his life in different galaxies. You have the ability to powerup your stats with the experience you gain from the battles. You also have different skills to brawl different space monkey enemies. But don't be easy because they have their own unique battle styles that will bring you to the death. 
+An out-of-this-world vertical space shooter survival game with you as a Monkey, who will fight for his life in different galaxies. You can power up your stats with the experience you gain from the battles. You also have multiple skills to brawl unique space monkey enemies. But don't be easy because they have their unique battle styles that will bring you to death. 
 
-Fight for your life Monkey!
+Fight for your life, you Monkey!
 
-This is a school project instructed by our Prof. Abricam S. Tinga at Universidad de Manila.
+A school project instructed by our Prof. Abricam S. Tinga at Universidad de Manila.
 
-<img src="/screenshots/mg-main-menu.PNG" width="320" alt="Screenshot#1: Main Menu">
-<img src="/screenshots/mg-lobby.PNG" width="320" alt="Screenshot#2: Lobby">
-<img src="/screenshots/mg-fight-1.PNG" width="320" alt="Screenshot#3: Battle #1">
-<img src="/screenshots/mg-fight-2.PNG" width="320" alt="Screenshot#4: Battle #2">
-<img src="/screenshots/mg-how.PNG" width="320" alt="Screenshot#5: How">
-<img src="/screenshots/mg-credits.PNG" width="320" alt="Screenshot#6: Credits">
+<img src="/Screenshots/mg-main-menu.PNG" width="320" alt="Screenshot#1: Main Menu">
+<img src="/Screenshots/mg-lobby.PNG" width="320" alt="Screenshot#2: Lobby">
+<img src="/Screenshots/mg-fight-1.PNG" width="320" alt="Screenshot#3: Battle #1">
+<img src="/Screenshots/mg-fight-2.PNG" width="320" alt="Screenshot#4: Battle #2">
+<img src="/Screenshots/mg-how.PNG" width="320" alt="Screenshot#5: How">
+<img src="/Screenshots/mg-credits.PNG" width="320" alt="Screenshot#6: Credits">
 
 ## How to Play
 
-You only need to run [mamangunja-le5.swf](mamangunja-le5.swf) to play the game.
+You only need to run [Monkey-Galaxy.exe](Monkey-Galaxy.exe) application to play the game.
 
 ## Usage example
 
-You can use this to be your base code for your space shooter game. You can add as many level and enemy as you want. You can also easily specify their skills using objects and parametrs. Add them to the different levels and make it more exciting!
+You can use this to be your base code for your space shooter game. You can add as many levels and enemies as you want. You can also easily specify your skills using objects and parameters. Add them to the different levels and make it more exciting!
 
 ## Development setup
 
